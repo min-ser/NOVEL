@@ -1,0 +1,46 @@
+# 천류관 Novel Archive 디렉토리 안내
+
+- `NOVEL/` — 소설 원고 및 개편 작업을 통합 관리합니다.
+- `NOVEL/01_LEGACY/` — 구버전 24화 원본 및 한서린 복원본. 수정 없이 보존합니다.
+- `NOVEL/02_REVISION_IDEAS/` — 신버전에 추가할 후보 사건과 관계 서사. 본편 채택 전까지 확정 원고가 아닙니다.
+- `NOVEL/02_REVISION_IDEAS/PART_01_ACADEMY/` — 제1부 학관편 개편 아이디어.
+- `NOVEL/02_REVISION_IDEAS/PART_01_ACADEMY/RELATIONSHIPS/` — 남궁설아·전서율 관계, 학도 대표 등 통합 사건 설정.
+- `NOVEL/02_REVISION_IDEAS/PART_01_ACADEMY/PLOT/` — 추후 장면별 줄거리 아이디어 분류용(현재 비어 있음).
+- `NOVEL/02_REVISION_IDEAS/PART_01_ACADEMY/TIMELINE/` — 추후 사건 순서 전용 자료 분류용(현재 비어 있음).
+- `NOVEL/03_NEW_VERSION/` — 실제 채택해 집필 중인 신버전 원고. 현재 원고 확인 전이므로 빈 구조만 마련합니다.
+- `NOVEL/03_NEW_VERSION/PART_01_ACADEMY/` — 제1부 신버전 원고 저장 예정.
+- `NOVEL/03_NEW_VERSION/PART_02/` — 제2부 신버전 원고 저장 예정.
+- `NOVEL/03_NEW_VERSION/PART_03/` — 제3부 신버전 원고 저장 예정.
+- `NOVEL/03_NEW_VERSION/PART_04/` — 제4부 신버전 원고 저장 예정.
+- `NOVEL/04_WORKING_DRAFTS/` — 기존 24화 통합 초안·수정 중인 문서 보존. 신버전 확정 원고와 구별합니다.
+- `CANON/` — 확정 설정 및 과거 통합 참고 자료. 검토 중인 내용은 별도 표시합니다.
+- `CANON/CHARACTERS/` — 캐릭터별 설정집. 기존 9명 문서 원본을 이동했습니다.
+- `CANON/RELATIONSHIPS/` — 인물 관계 통합 참고 문서.
+- `CANON/COSTUMES/` — 학관 교복·훈련복·가문 전승 무복 및 한서린 전투복 설정.
+- `CANON/INTEGRATED_REFERENCE/` — 기존 통합 캐릭터·말투·설정 충돌 자료. 충돌/구버전 흔적이 있을 수 있습니다.
+- `CANON/INCOMING_REVIEW/` — 기존 대화 기반 신규 설정 모음. 확정 여부를 검토하기 전 원문 보존.
+- `CANON/WORLD/` — 세계관 공식 설정 전용 분류(현재 비어 있음).
+- `CANON/MARTIAL_ARTS/` — 무공·경지 공식 설정 전용 분류(현재 비어 있음).
+- `CANON/CHRONOLOGY/` — 공식 연대기 전용 분류(현재 비어 있음).
+- `ASSETS/` — 이미지 자산을 향후 분류할 공간. 기존 아카이브 내 이미지가 없으면 비워 둡니다.
+- `ASSETS/CHARACTERS/` — 캐릭터 이미지.
+- `ASSETS/BACKGROUNDS/` — 배경 이미지.
+- `ASSETS/COSTUMES/` — 복식 디자인 이미지.
+- `ASSETS/ILLUSTRATIONS/` — 삽화 및 이벤트 CG.
+- `SOURCES/` — 과거 소스·압축본·참고 시나리오 보관.
+- `SOURCES/SNAPSHOTS/` — 과거 집필 버전 스냅샷.
+- `SOURCES/ORIGINAL_ZIPS/` — 기존 원본 ZIP 자료.
+- `SOURCES/OTHER_SCENARIOS/` — 기타 시나리오와 리더 자료.
+- `HISTORY/` — 변경 기록 및 설정 채택 결정 관리.
+- `HISTORY/DECISIONS/` — 확정·변경·폐기된 설정에 대한 결정 기록.
+- `INTERNAL/` — 내부 관리 및 검증 파일.
+- `INTERNAL/MANIFEST_LEGACY/` — 이전 디렉토리 구조 기준 목록과 해시. 현 구조의 최신 목록은 루트에 별도 생성.
+- `INTERNAL/INTEGRATION_LOGS_LEGACY/` — 이전 통합 작업 기록.
+- `INTERNAL/CONFLICTS/` — 설정 충돌 검토 전용 분류(현재 비어 있음).
+
+## 이관 원칙
+- 구버전 원본은 수정하지 않음
+- 아이디어는 본편 원고와 분리
+- 기존 통합 참고 설정의 확정 여부는 자동 변경하지 않음
+- `NOVEL/03_NEW_VERSION`은 실제 신버전 집필본을 검증한 후 채움
+- 기존 README 및 과거 매니페스트의 경로는 이관 전 구조를 가리킬 수 있음

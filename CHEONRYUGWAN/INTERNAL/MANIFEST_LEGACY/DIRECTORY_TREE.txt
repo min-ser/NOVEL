@@ -1,0 +1,199 @@
+CHEONRYUGWAN_NOVEL_ARCHIVE/
+├── 00_LATEST_INTEGRATED_CANON/
+│   ├── CHARACTERS/
+│   │   ├── 00_CHARACTER_INDEX.md
+│   │   ├── 01_전서율.md
+│   │   ├── 02_백소윤.md
+│   │   ├── 03_윤태경.md
+│   │   ├── 04_남궁설아.md
+│   │   ├── 05_남궁현우.md
+│   │   ├── 06_차윤겸.md
+│   │   ├── 07_제갈연.md
+│   │   ├── 08_진하연.md
+│   │   ├── 09_한서린.md
+│   │   ├── 11_CANON_CONFLICTS.md
+│   │   └── README.md
+│   ├── CANON_CONFLICTS.html
+│   ├── CANON_CONFLICTS.md
+│   ├── CHARACTER_BIBLE_INTEGRATED.html
+│   ├── CHARACTER_BIBLE_INTEGRATED.md
+│   ├── CHARACTER_RELATIONSHIPS_INTEGRATED.html
+│   ├── CHARACTER_RELATIONSHIPS_INTEGRATED.md
+│   ├── CHARACTER_VOICE_BIBLE_INTEGRATED.html
+│   ├── CHARACTER_VOICE_BIBLE_INTEGRATED.md
+│   ├── index.html
+│   └── README.md
+├── 01_CANON/
+│   └── COSTUMES/
+│       ├── COSTUME_BIBLE_v0_1.html
+│       └── COSTUME_BIBLE_v0_1.md
+├── 01_SOURCE_SNAPSHOTS/
+│   ├── cheonryugwan_revision_v3/
+│   │   ├── chapters/
+│   │   │   ├── chapter-01.md
+│   │   │   ├── chapter-02.md
+│   │   │   └── chapter-03.md
+│   │   ├── docs/
+│   │   │   └── JEON_SEOYUL_MARTIAL_PHILOSOPHY.md
+│   │   ├── CHARACTER_VOICE_BIBLE.md
+│   │   ├── REVISION_PLAN.md
+│   │   └── STORY_BIBLE.md
+│   └── cheonryugwan_s1/
+│       ├── chapters/
+│       │   ├── chapter-11.md
+│       │   ├── chapter-12.md
+│       │   ├── chapter-13.md
+│       │   ├── chapter-14.md
+│       │   ├── chapter-15.md
+│       │   ├── chapter-16.md
+│       │   ├── chapter-17.md
+│       │   ├── chapter-18.md
+│       │   ├── chapter-19.md
+│       │   ├── chapter-20.md
+│       │   ├── chapter-21.md
+│       │   ├── chapter-22.md
+│       │   ├── chapter-23.md
+│       │   └── chapter-24.md
+│       ├── CHARACTER_NAME_POLICY.md
+│       ├── EMOTIONAL_ARC_CANON_2026-11-12.md
+│       ├── FULL_AUDIT_2026-11-12.md
+│       ├── README.md
+│       ├── RECOVERY_AND_RENAME_REPORT.md
+│       └── STORY_CANON_TOTAL_AUDIT_2026-11-12.md
+├── 02_ORIGINAL_VERSION_ZIPS/
+│   ├── cheonryugwan_ch01_expanded_v3_5.zip
+│   ├── cheonryugwan_revision_v3_ch01.zip
+│   ├── cheonryugwan_revision_v3_ch01_ch02.zip
+│   ├── cheonryugwan_revision_v3_ch01_rewrite_v3_1.zip
+│   ├── cheonryugwan_s1_audit_2026-11-12.zip
+│   ├── cheonryugwan_s1_canon_audit_updated.zip
+│   ├── cheonryugwan_s1_ch01-24_hanseorin_rename.zip
+│   ├── cheonryugwan_s1_ch01-24_restored_hanseorin_v2.zip
+│   ├── cheonryugwan_s1_ch02_updated.zip
+│   ├── cheonryugwan_s1_ch03_updated.zip
+│   ├── cheonryugwan_s1_ch04_updated.zip
+│   ├── cheonryugwan_s1_ch05_updated.zip
+│   ├── cheonryugwan_s1_ch06_updated.zip
+│   ├── cheonryugwan_s1_ch07_updated.zip
+│   ├── cheonryugwan_s1_ch08_updated.zip
+│   ├── cheonryugwan_s1_ch09_updated.zip
+│   ├── cheonryugwan_s1_ch10_updated.zip
+│   ├── cheonryugwan_s1_ch11_updated.zip
+│   ├── cheonryugwan_s1_ch12_canon_revised.zip
+│   ├── cheonryugwan_s1_ch12_updated.zip
+│   ├── cheonryugwan_s1_ch13_canon_revised.zip
+│   ├── cheonryugwan_s1_ch13_ch11_revised.zip
+│   ├── cheonryugwan_s1_ch13_ch12_revised.zip
+│   ├── cheonryugwan_s1_ch13_review_updated.zip
+│   ├── cheonryugwan_s1_ch13_updated.zip
+│   ├── cheonryugwan_s1_ch14_updated.zip
+│   ├── cheonryugwan_s1_ch16_cumulative_reviewed.zip
+│   ├── cheonryugwan_s1_ch16_names_retrofit.zip
+│   ├── cheonryugwan_s1_ch17_jealous_witness_revised.zip
+│   ├── cheonryugwan_s1_ch17_updated.zip
+│   ├── cheonryugwan_s1_ch18_updated.zip
+│   ├── cheonryugwan_s1_ch19_summons_romance_revised.zip
+│   ├── cheonryugwan_s1_ch19_updated.zip
+│   ├── cheonryugwan_s1_ch20-22_rewritten.zip
+│   ├── cheonryugwan_s1_ch20_updated.zip
+│   ├── cheonryugwan_s1_ch21_emotion_revised.zip
+│   ├── cheonryugwan_s1_ch21_updated.zip
+│   ├── cheonryugwan_s1_ch22_updated.zip
+│   ├── cheonryugwan_s1_ch23_updated.zip
+│   ├── cheonryugwan_s1_ch24_part1_complete.zip
+│   ├── cheonryugwan_s1_emotion_revision_v1.zip
+│   ├── cheonryugwan_s1_emotional_canon_updated.zip
+│   ├── cheonryugwan_s1_readme.zip
+│   └── cheonryugwan_s1_updated.zip
+├── 03_NOVEL_24_CHAPTER_BASELINES/
+│   ├── original_24_chapter_complete/
+│   │   ├── chapter-01.md
+│   │   ├── chapter-02.md
+│   │   ├── chapter-03.md
+│   │   ├── chapter-04.md
+│   │   ├── chapter-05.md
+│   │   ├── chapter-06.md
+│   │   ├── chapter-07.md
+│   │   ├── chapter-08.md
+│   │   ├── chapter-09.md
+│   │   ├── chapter-10.md
+│   │   ├── chapter-11.md
+│   │   ├── chapter-12.md
+│   │   ├── chapter-13.md
+│   │   ├── chapter-14.md
+│   │   ├── chapter-15.md
+│   │   ├── chapter-16.md
+│   │   ├── chapter-17.md
+│   │   ├── chapter-18.md
+│   │   ├── chapter-19.md
+│   │   ├── chapter-20.md
+│   │   ├── chapter-21.md
+│   │   ├── chapter-22.md
+│   │   ├── chapter-23.md
+│   │   └── chapter-24.md
+│   └── restored_24_chapter_hanseorin/
+│       ├── chapter-01.md
+│       ├── chapter-02.md
+│       ├── chapter-03.md
+│       ├── chapter-04.md
+│       ├── chapter-05.md
+│       ├── chapter-06.md
+│       ├── chapter-07.md
+│       ├── chapter-08.md
+│       ├── chapter-09.md
+│       ├── chapter-10.md
+│       ├── chapter-11.md
+│       ├── chapter-12.md
+│       ├── chapter-13.md
+│       ├── chapter-14.md
+│       ├── chapter-15.md
+│       ├── chapter-16.md
+│       ├── chapter-17.md
+│       ├── chapter-18.md
+│       ├── chapter-19.md
+│       ├── chapter-20.md
+│       ├── chapter-21.md
+│       ├── chapter-22.md
+│       ├── chapter-23.md
+│       └── chapter-24.md
+├── 04_WORKING_COMBINED_24_CHAPTERS/
+│   ├── chapter-01.md
+│   ├── chapter-02.md
+│   ├── chapter-03.md
+│   ├── chapter-04.md
+│   ├── chapter-05.md
+│   ├── chapter-06.md
+│   ├── chapter-07.md
+│   ├── chapter-08.md
+│   ├── chapter-09.md
+│   ├── chapter-10.md
+│   ├── chapter-11.md
+│   ├── chapter-12.md
+│   ├── chapter-13.md
+│   ├── chapter-14.md
+│   ├── chapter-15.md
+│   ├── chapter-16.md
+│   ├── chapter-17.md
+│   ├── chapter-18.md
+│   ├── chapter-19.md
+│   ├── chapter-20.md
+│   ├── chapter-21.md
+│   ├── chapter-22.md
+│   ├── chapter-23.md
+│   └── chapter-24.md
+├── 05_OTHER_SCENARIOS_AND_READERS/
+│   ├── CHEONRYUGWAN_EP01_SCENARIO.md
+│   └── cheonryugwan_part1_read_online.html
+├── 06_NEW_CONVERSATION_CANON/
+│   ├── 2026-11-19_ACADEMY_REPRESENTATIVE_AND_RELATIONSHIPS.md
+│   ├── 2026-11-19_MAGYO_ABDUCTION_REVISED_PLOT.md
+│   └── 2026-11-19_STRUCTURE_AND_CHANGELOG.md
+├── 07_MANIFEST/
+│   ├── ARCHIVE_ZIP_CONTENTS.tsv
+│   ├── DIRECTORY_TREE.txt
+│   ├── EXACT_DUPLICATE_FILES.json
+│   └── FILE_INVENTORY_SHA256.json
+├── 99_INTERNAL/
+│   └── COSTUME_INTEGRATION_2026-11-19.md
+├── README.md
+└── README_FIRST.md

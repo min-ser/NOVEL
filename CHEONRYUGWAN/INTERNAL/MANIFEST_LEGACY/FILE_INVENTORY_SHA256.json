@@ -1,0 +1,882 @@
+[
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CANON_CONFLICTS.html",
+    "sha256": "b6cb255c925931203fb71ada9890f07e09d1ad0cd09eaced48fae38e153e6ad8",
+    "bytes": 3193
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CANON_CONFLICTS.md",
+    "sha256": "96f6c44d83a2c798f563ef2c914866c7dac9cbaa8f0419125c381418387b2094",
+    "bytes": 1435
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTERS/00_CHARACTER_INDEX.md",
+    "sha256": "3ed1cd6cde7627c0f272dfb41aaad09269632d21498fa674ab8117d9a96233ee",
+    "bytes": 2045
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTERS/01_전서율.md",
+    "sha256": "7dd955788da180e3d0842e4f227a16da22479f545689b7de694c6465f5d8646f",
+    "bytes": 85854
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTERS/02_백소윤.md",
+    "sha256": "948dfe962410f03e2bf633aa1fa7f4f9be0e96a4100a022e5c3b865eaa0e08af",
+    "bytes": 51052
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTERS/03_윤태경.md",
+    "sha256": "5d4c913c45c426a96343f09ccbb8daddef4ff325941738a2fccc5bddabfc567e",
+    "bytes": 39182
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTERS/04_남궁설아.md",
+    "sha256": "1d046742f8b735bacc48bb0a0011cc52d96cc87f4c6f63a082bd4ce97bf80822",
+    "bytes": 5836
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTERS/05_남궁현우.md",
+    "sha256": "c383413eaa492d58776bef400eb684a0a8db2c5ebf2ac74a2085b11e60edb606",
+    "bytes": 27711
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTERS/06_차윤겸.md",
+    "sha256": "7de361425067ce6c8191b27053fd389ac8c1a73a4c18c72ce915db0d048840b6",
+    "bytes": 26604
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTERS/07_제갈연.md",
+    "sha256": "2a091302e34a97f700b04e069959421e91d6f11149162bfa24f4198c75c52e6d",
+    "bytes": 5364
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTERS/08_진하연.md",
+    "sha256": "302b8a54dcba0d5905d0429f06f226d98ed68e7b6d9f5d795f1ab3208c2e4a10",
+    "bytes": 75168
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTERS/09_한서린.md",
+    "sha256": "ec65cbb89302015050c0d2ddabb8764eadf21d84e37875e79feb4bebd5d99dc1",
+    "bytes": 26159
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTERS/11_CANON_CONFLICTS.md",
+    "sha256": "0613712780e9ed38a939a433764c8eba68be30626c43e12bbd102735e86f5bdf",
+    "bytes": 853
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTERS/README.md",
+    "sha256": "4758399b90d2dacbfa36725874c72b7793c7b269b1dd4597c670fe814f40e6c4",
+    "bytes": 609
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTER_BIBLE_INTEGRATED.html",
+    "sha256": "c6d307ecf0802ca7804810a1451d82be3acbb9496563302e60bd44f5fc46ff41",
+    "bytes": 35167
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTER_BIBLE_INTEGRATED.md",
+    "sha256": "0959c8c21168fdf2f61f7178251f59e606c1b74133a1763e0aa600d666d2813e",
+    "bytes": 29222
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTER_RELATIONSHIPS_INTEGRATED.html",
+    "sha256": "23edb4c0be54a3becc39c0768dfdf49fa81e5707f886b00d3bdca6c39f2c93e2",
+    "bytes": 10553
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTER_RELATIONSHIPS_INTEGRATED.md",
+    "sha256": "72d8023980cad8396dc402c178b7b9bbd36b5fd23a0ed9300ffa7fa088ab1469",
+    "bytes": 8619
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTER_VOICE_BIBLE_INTEGRATED.html",
+    "sha256": "e2adb015484609838b0fac5004f9ef5d553a8845885b9e227675cb3670930277",
+    "bytes": 16546
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/CHARACTER_VOICE_BIBLE_INTEGRATED.md",
+    "sha256": "68e59822125f362e185bab497dd35c8b83793abbcffc6890c8d46ed10396f440",
+    "bytes": 14165
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/README.md",
+    "sha256": "c92348500976bb610ad34aeb0d9df154248427348a643975962b7af825ae528d",
+    "bytes": 855
+  },
+  {
+    "path": "00_LATEST_INTEGRATED_CANON/index.html",
+    "sha256": "d7eff4fa8e33ae39ba443ed37792c8843b8f6fcf627ff66381ba0ae6305506e5",
+    "bytes": 1791
+  },
+  {
+    "path": "01_CANON/COSTUMES/COSTUME_BIBLE_v0_1.html",
+    "sha256": "71a3950a095c36b72118a312318495c8f645c1ee0810e20cd687fe1e96c7fa91",
+    "bytes": 11786
+  },
+  {
+    "path": "01_CANON/COSTUMES/COSTUME_BIBLE_v0_1.md",
+    "sha256": "facc48e10c0853606e3eb95c8cdbe32ad3c0997fbfcdfc20f43219cad57b260e",
+    "bytes": 11266
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_revision_v3/CHARACTER_VOICE_BIBLE.md",
+    "sha256": "877e0c064cad21bfb96abc61108b37aa327781ace6fd3f2870d5981556512ba4",
+    "bytes": 12098
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_revision_v3/REVISION_PLAN.md",
+    "sha256": "69cfa771e030706db2bca37b256260edcb234a09d97ec66881ffe1f7c031019b",
+    "bytes": 3983
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_revision_v3/STORY_BIBLE.md",
+    "sha256": "ee5ce444401c2d15f36f18d79247d61f67576aec3b635d12ab3cbd5aa113ee96",
+    "bytes": 16392
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_revision_v3/chapters/chapter-01.md",
+    "sha256": "0a4feff34d7ac215f20e05113e35f58379286865466e5311792b147eba2f32d9",
+    "bytes": 35646
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_revision_v3/chapters/chapter-02.md",
+    "sha256": "72e84c34820548c6a5e42d18f4f9dff054a5e07c473cf3bfe629f850d2189d8e",
+    "bytes": 18561
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_revision_v3/chapters/chapter-03.md",
+    "sha256": "2a328dfd1c009bb4f6c99c47e952b4bf2d0367389a30d759cb68e095cea1ab6c",
+    "bytes": 18043
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_revision_v3/docs/JEON_SEOYUL_MARTIAL_PHILOSOPHY.md",
+    "sha256": "b96b5ac5e257597127212056ee28fa28edd4498e3bc6439a67b007280e20e22d",
+    "bytes": 24522
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/CHARACTER_NAME_POLICY.md",
+    "sha256": "ab447d6a41df738e9b2a2043369140fb875de3f7e3af2a41e9d5cdb9cd93b235",
+    "bytes": 2700
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/EMOTIONAL_ARC_CANON_2026-11-12.md",
+    "sha256": "546abd3648330317aedac8a77116e4be35b3fd5a810144a64874301ab662a7da",
+    "bytes": 3968
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/FULL_AUDIT_2026-11-12.md",
+    "sha256": "3f443ee4768567097d9e80d43390b508731804380824d3f6d474115403155c39",
+    "bytes": 5222
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/README.md",
+    "sha256": "bb3bf89065a46b00785a72fea398cbe791f0b0512fa959158d73751f6fe0d801",
+    "bytes": 65731
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/RECOVERY_AND_RENAME_REPORT.md",
+    "sha256": "58e92254fce1834307995114240b131bab95945e14710d2eed6141c185b46320",
+    "bytes": 1479
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/STORY_CANON_TOTAL_AUDIT_2026-11-12.md",
+    "sha256": "4a784f2c099e6245dbf73c52c37541050baff9535342899a43128a7496e30412",
+    "bytes": 4766
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/chapters/chapter-11.md",
+    "sha256": "7c7d727cdb25786b8b09e9a83324bca8d1ea014a0203aeea7ec0a674918a2d2c",
+    "bytes": 28209
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/chapters/chapter-12.md",
+    "sha256": "bec5f074f6b27ac85fd12737b8af6035791f5ef5bdcb4554d87bb6953e5293a4",
+    "bytes": 21869
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/chapters/chapter-13.md",
+    "sha256": "f957a59949e7d436812a8bf2fee6b7af63acd8bd225b76f3d8d4732d2d0604d8",
+    "bytes": 17615
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/chapters/chapter-14.md",
+    "sha256": "e296c6eb1f3fc70b48a462384e1c8725ba3782656d32de270f8e4e99a33fa6ce",
+    "bytes": 18655
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/chapters/chapter-15.md",
+    "sha256": "e6700069426925f0f67d7c295331c88f1fbfa480e68765df3301fa4dc272dae2",
+    "bytes": 16212
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/chapters/chapter-16.md",
+    "sha256": "6fb3745b6d0b641ce2a13cb71c2ed3683218f727af90bf8a9af0d5feeadf5602",
+    "bytes": 16421
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/chapters/chapter-17.md",
+    "sha256": "03983ef0a9d91cf2290c7f7a860e0082b49c43927193aa0010f5bcbb5cf4cb3b",
+    "bytes": 30150
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/chapters/chapter-18.md",
+    "sha256": "973d259651c9526850ef8c1a381f5aedb402ad9f4c245514874cc0265b6c968a",
+    "bytes": 24161
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/chapters/chapter-19.md",
+    "sha256": "f675a32f81f42c995b30a19225afb00e00853da293a03b8f2ab86467d025fe22",
+    "bytes": 33835
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/chapters/chapter-20.md",
+    "sha256": "55c3d62e81512dd4febd8797d442a6b76143cde433c30cfa28c9714e0e17f6aa",
+    "bytes": 13770
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/chapters/chapter-21.md",
+    "sha256": "364041e7d19157cca33103924a9c03d80b6b96878fae67b9f92c5abd40b73630",
+    "bytes": 14362
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/chapters/chapter-22.md",
+    "sha256": "b73edd8a5ad9ed9526cd78bf2cf3e540de20226b5864f5ae932926a2af8717ec",
+    "bytes": 16053
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/chapters/chapter-23.md",
+    "sha256": "a90bf177c9c51b7cc604017197d331fc8cc6b4ab505acd3d36e6b5f9614753b5",
+    "bytes": 21222
+  },
+  {
+    "path": "01_SOURCE_SNAPSHOTS/cheonryugwan_s1/chapters/chapter-24.md",
+    "sha256": "4fc4739be4f15b5502d1171c966e1a995eb85fc7ba96b08cf1109d1fe0967a59",
+    "bytes": 27605
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_ch01_expanded_v3_5.zip",
+    "sha256": "036d1534521c40af81955cc60dc0473457c379ddb2e28e03766ee00e6a3b4c01",
+    "bytes": 26542
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_revision_v3_ch01.zip",
+    "sha256": "bd114cc31e3608552c2b2dabacd2bf226041ae1031111e1909930c1d4af7e90d",
+    "bytes": 10016
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_revision_v3_ch01_ch02.zip",
+    "sha256": "dc7fd1d5539421384d70a81f4f8b5cbb7d40b1fe4917d39f40d512a218ec3f21",
+    "bytes": 36488
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_revision_v3_ch01_rewrite_v3_1.zip",
+    "sha256": "159d4662af8f7ffc869f7f17b8582951f61119ce02ea0a7f7cf0790baa477dab",
+    "bytes": 11362
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_audit_2026-11-12.zip",
+    "sha256": "e36fbfa7d97f5cbc260b471491fefa9428e985b2a38a371dc17d3156c87522ed",
+    "bytes": 99048
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_canon_audit_updated.zip",
+    "sha256": "a6b67330b5c576c0610d07162191aa8b4a4df76c476a2743607e14ca7ac2a984",
+    "bytes": 102862
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch01-24_hanseorin_rename.zip",
+    "sha256": "75addab434af1238dec2c7ce3b181bafbc4af4506124d8e0a30c5fed47a0c9c3",
+    "bytes": 141315
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch01-24_restored_hanseorin_v2.zip",
+    "sha256": "13566e61858cf3a78e9b0c5cdb08d89192fd5ef21de7c281377b662d2300b187",
+    "bytes": 205537
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch02_updated.zip",
+    "sha256": "daadc6765644b895d3bcbf45355ebeed7e4c3b9c2ac3ed040f179388a89890ff",
+    "bytes": 20104
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch03_updated.zip",
+    "sha256": "3ea8a5b11c370583acd360b979a9bdd4343e872b8c000efcad81ce9cea3f9189",
+    "bytes": 27216
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch04_updated.zip",
+    "sha256": "5051b4f142c7298d287f2dc5649e17a1233c36c9b7c071cc2704166bb530c51a",
+    "bytes": 31361
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch05_updated.zip",
+    "sha256": "8518885a13898e8fa801494626bad2e38e065b38eab43ddd0a889eeeeaff0ff4",
+    "bytes": 38093
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch06_updated.zip",
+    "sha256": "6484fe73d5c61b3906e54b25b96fd072d5b16c6bfdb009dbca6a5e8e1401aac3",
+    "bytes": 45211
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch07_updated.zip",
+    "sha256": "8f8ef507682052b0eb2e8f8da30aba25b1d59c50f319a0287f86ab49abe1eb56",
+    "bytes": 50450
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch08_updated.zip",
+    "sha256": "e64ec4733ea5847e66bbe75bb4e2e66f55eb8e04667a31d431a2aa8ff24326f6",
+    "bytes": 56993
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch09_updated.zip",
+    "sha256": "a337ab702933e8b517e6ee1557f8ac1c9a4745253ab1bcb1c26eb24410463f1d",
+    "bytes": 64476
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch10_updated.zip",
+    "sha256": "90a017fd1e32ff6c5c57b6fc13de0acf622949160da4615b92601aab4f4ca07f",
+    "bytes": 70318
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch11_updated.zip",
+    "sha256": "0ac2c3d53ded1ce7b115059bd43b879a0bc6cdf105a8562de26fccbd8d3ad0cc",
+    "bytes": 79338
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch12_canon_revised.zip",
+    "sha256": "ffd894098d3aff0a0cfe1dc662950ebb79a028136d94f1dc3c9e42301c59979d",
+    "bytes": 107156
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch12_updated.zip",
+    "sha256": "701264b6449c253d71d582bfaaf70cfd2232feaf58f271d187c4cbf8d3ad207b",
+    "bytes": 88086
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch13_canon_revised.zip",
+    "sha256": "4b9903882e3b98ca9b371258f53dfc4727cba8e11b01bb717c1e55b85626fcd7",
+    "bytes": 107783
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch13_ch11_revised.zip",
+    "sha256": "d32842f3b2ff846872abf19b4f0bf8f172b4da293938ca08afaac03d4f016240",
+    "bytes": 96633
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch13_ch12_revised.zip",
+    "sha256": "5b42bbd8f2e06514539929fa4f42b7749d9bfba7101988a0a217a63be1fed8f0",
+    "bytes": 96439
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch13_review_updated.zip",
+    "sha256": "55ea1f59acaef78e43d5f8f3ef66e21245d75702b6273004bee3e566a8c6d9bf",
+    "bytes": 94472
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch13_updated.zip",
+    "sha256": "3f33ce870899e0d1a4064d9dcefaf404e082acd145126b6c73df95a5453827a1",
+    "bytes": 95167
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch14_updated.zip",
+    "sha256": "640b3cdc196ac1ae6966ddb2c47eb840c9f81c0f02cda455b62bf9916ffcf4f7",
+    "bytes": 115302
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch16_cumulative_reviewed.zip",
+    "sha256": "b2a455211a131f37b30206c0c18eebea9ad947130ed5c5a0b1d51cee1076f566",
+    "bytes": 128672
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch16_names_retrofit.zip",
+    "sha256": "b70e1d244f29adbd92e8507511ae64a384b61131ab1b9bf8622c0d79096158dc",
+    "bytes": 129227
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch17_jealous_witness_revised.zip",
+    "sha256": "245e14108ff9b47fe122831def386a872749d66d0642b48719e31712a62b2944",
+    "bytes": 141046
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch17_updated.zip",
+    "sha256": "006b17747dcaa12b5be8232c46481db46738dc3795453b1b20993fb58de59167",
+    "bytes": 139204
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch18_updated.zip",
+    "sha256": "815fd9e025ffa618cea927d3d020dd42236f044f911bd786034f6a9f8f1cafd9",
+    "bytes": 150116
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch19_summons_romance_revised.zip",
+    "sha256": "23d5fb80de68dfd2b3577a8f9d699ba0fea7fab637f8559e9c9d6977da86d17a",
+    "bytes": 162796
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch19_updated.zip",
+    "sha256": "2ef22ef03cc4dca7bde994be80d3aeb0fcee3a80f24e6b342a839fd24a24df59",
+    "bytes": 160276
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch20-22_rewritten.zip",
+    "sha256": "6a5b90795c333605276f3b2c5ec43a3adf2a6fba63e4b6baa2cb5b6dd7c46734",
+    "bytes": 183522
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch20_updated.zip",
+    "sha256": "5fc0819d1ca4eae7e921384db81226a1dab165e6f36710366d9d26ce4f4465e5",
+    "bytes": 173854
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch21_emotion_revised.zip",
+    "sha256": "4efd2de4ba87e5e36b544209acdc8c2934b86d341c4b95cc6f84c2b4e8aedefb",
+    "bytes": 184438
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch21_updated.zip",
+    "sha256": "e311c1a25bf834ff8738d1de4741457d384d99c0bad42e0d486463021882aa4f",
+    "bytes": 182461
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch22_updated.zip",
+    "sha256": "a9e815cc76d14c0818def51e4d002267d6fb1b9f38277480a33e0e20bedcd73e",
+    "bytes": 193719
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch23_updated.zip",
+    "sha256": "b547beae29330101eb5bcb8aa8dae4edf648f76671f80386e50bdb7e5796ac93",
+    "bytes": 191779
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_ch24_part1_complete.zip",
+    "sha256": "8f5cab58de5f27d69d729d89d7b76c2d561dce1554cde745de728e2225f5aac2",
+    "bytes": 202396
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_emotion_revision_v1.zip",
+    "sha256": "64168712e69f547002c245a9c412a9ef5fcaeac8011fc7852bc492cf053e3ebe",
+    "bytes": 195405
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_emotional_canon_updated.zip",
+    "sha256": "708433a2e526b78092bff4f2da3f793a5029fff97fff410ed1b9e6aa9ef93c48",
+    "bytes": 106301
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_readme.zip",
+    "sha256": "714d4010581c802f7509b202ddbc5317fd9e087fc4ca34c9e63883af7b2ef017",
+    "bytes": 5528
+  },
+  {
+    "path": "02_ORIGINAL_VERSION_ZIPS/cheonryugwan_s1_updated.zip",
+    "sha256": "5debbdb7c589ab3dd7a523f5b81746647ccf52851f0348b7e8a0b4ca3df2254d",
+    "bytes": 14296
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-01.md",
+    "sha256": "89cc03cac6ac6b4b658019d0830e5a8ef0ee1bbbcc32bc06e7a96e201e83ead5",
+    "bytes": 20608
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-02.md",
+    "sha256": "6b4e50af64a1dcdb8fbcceed3f4cce42d1a866ab9681d0e5f9fe49b55af13a65",
+    "bytes": 13804
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-03.md",
+    "sha256": "5e071b94b14b0d39de93932568bb746a05ad3b6c4cd4630126990b0c74d1100c",
+    "bytes": 19014
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-04.md",
+    "sha256": "59703e9e7bfd8f03d53ebf1f7fe262419f9b82ff41c9f6a9cb4d23568a591500",
+    "bytes": 9003
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-05.md",
+    "sha256": "d0cec62cf7ded8ae210a2bc932b931df493125245c697ff9a488dbeb535a1e0e",
+    "bytes": 16678
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-06.md",
+    "sha256": "07e2acfd66948494afdbeb4b7bdef252cbc9e121c98ec96fad80d3d39f18a7c0",
+    "bytes": 17135
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-07.md",
+    "sha256": "dce3ff144c907bcb557b00add861d1493388b2e46ce3f2012db63405221b3665",
+    "bytes": 11792
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-08.md",
+    "sha256": "63481996b1f526470d2b01e2c87842ce4c535a5ee438494035be6e70226162df",
+    "bytes": 19218
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-09.md",
+    "sha256": "13dc4128064cca63f05dbc42fbc9b4a094122b0b7e6d3fc2ee0e5dd8cf1a1ae5",
+    "bytes": 20049
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-10.md",
+    "sha256": "f8d3a85666beeb038c5bfa6549d0d65d2ab5389c812f01858a574835526f82e2",
+    "bytes": 14722
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-11.md",
+    "sha256": "7c7d727cdb25786b8b09e9a83324bca8d1ea014a0203aeea7ec0a674918a2d2c",
+    "bytes": 28209
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-12.md",
+    "sha256": "bec5f074f6b27ac85fd12737b8af6035791f5ef5bdcb4554d87bb6953e5293a4",
+    "bytes": 21869
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-13.md",
+    "sha256": "f957a59949e7d436812a8bf2fee6b7af63acd8bd225b76f3d8d4732d2d0604d8",
+    "bytes": 17615
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-14.md",
+    "sha256": "e296c6eb1f3fc70b48a462384e1c8725ba3782656d32de270f8e4e99a33fa6ce",
+    "bytes": 18655
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-15.md",
+    "sha256": "885d10f48776960639c2c7f750d16b185785c676333f6466fc1509a346851643",
+    "bytes": 16212
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-16.md",
+    "sha256": "46f60ebff216f6c34c6a73cd2707d151686f67025e53f14f0e4c8cbeda6ffe84",
+    "bytes": 16421
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-17.md",
+    "sha256": "03983ef0a9d91cf2290c7f7a860e0082b49c43927193aa0010f5bcbb5cf4cb3b",
+    "bytes": 30150
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-18.md",
+    "sha256": "973d259651c9526850ef8c1a381f5aedb402ad9f4c245514874cc0265b6c968a",
+    "bytes": 24161
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-19.md",
+    "sha256": "f675a32f81f42c995b30a19225afb00e00853da293a03b8f2ab86467d025fe22",
+    "bytes": 33835
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-20.md",
+    "sha256": "55c3d62e81512dd4febd8797d442a6b76143cde433c30cfa28c9714e0e17f6aa",
+    "bytes": 13770
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-21.md",
+    "sha256": "364041e7d19157cca33103924a9c03d80b6b96878fae67b9f92c5abd40b73630",
+    "bytes": 14362
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-22.md",
+    "sha256": "b73edd8a5ad9ed9526cd78bf2cf3e540de20226b5864f5ae932926a2af8717ec",
+    "bytes": 16053
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-23.md",
+    "sha256": "a90bf177c9c51b7cc604017197d331fc8cc6b4ab505acd3d36e6b5f9614753b5",
+    "bytes": 21222
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/original_24_chapter_complete/chapter-24.md",
+    "sha256": "4fc4739be4f15b5502d1171c966e1a995eb85fc7ba96b08cf1109d1fe0967a59",
+    "bytes": 27605
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-01.md",
+    "sha256": "89cc03cac6ac6b4b658019d0830e5a8ef0ee1bbbcc32bc06e7a96e201e83ead5",
+    "bytes": 20608
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-02.md",
+    "sha256": "6b4e50af64a1dcdb8fbcceed3f4cce42d1a866ab9681d0e5f9fe49b55af13a65",
+    "bytes": 13804
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-03.md",
+    "sha256": "5e071b94b14b0d39de93932568bb746a05ad3b6c4cd4630126990b0c74d1100c",
+    "bytes": 19014
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-04.md",
+    "sha256": "59703e9e7bfd8f03d53ebf1f7fe262419f9b82ff41c9f6a9cb4d23568a591500",
+    "bytes": 9003
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-05.md",
+    "sha256": "d0cec62cf7ded8ae210a2bc932b931df493125245c697ff9a488dbeb535a1e0e",
+    "bytes": 16678
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-06.md",
+    "sha256": "ef200fe7598b3b9687ee75446eaaefef3d0ece740ed6aba9d021e96504800397",
+    "bytes": 17177
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-07.md",
+    "sha256": "dce3ff144c907bcb557b00add861d1493388b2e46ce3f2012db63405221b3665",
+    "bytes": 11792
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-08.md",
+    "sha256": "63481996b1f526470d2b01e2c87842ce4c535a5ee438494035be6e70226162df",
+    "bytes": 19218
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-09.md",
+    "sha256": "13dc4128064cca63f05dbc42fbc9b4a094122b0b7e6d3fc2ee0e5dd8cf1a1ae5",
+    "bytes": 20049
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-10.md",
+    "sha256": "f8d3a85666beeb038c5bfa6549d0d65d2ab5389c812f01858a574835526f82e2",
+    "bytes": 14722
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-11.md",
+    "sha256": "012fa338e8e8ed7e790a43fed2b122a5fb87c35583503d92c022ac51d4c1d354",
+    "bytes": 28206
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-12.md",
+    "sha256": "f42b47697bc6451de9ae7c6083a9b94466a13d2baf840edee3c1b4d83206dbe4",
+    "bytes": 21893
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-13.md",
+    "sha256": "c1beb692c92e01bd45d3df74ef671c4bbb3283713233e23ea85fd498847c43a7",
+    "bytes": 17639
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-14.md",
+    "sha256": "9dc57ca64c0cddd452677de9b1c0f810275f40cf2a435f54dbad5e8552ac47b9",
+    "bytes": 18667
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-15.md",
+    "sha256": "e6700069426925f0f67d7c295331c88f1fbfa480e68765df3301fa4dc272dae2",
+    "bytes": 16212
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-16.md",
+    "sha256": "06a0e9829bce8c92924bb29b764db93b929b08c612771396ffeadfc442174801",
+    "bytes": 16439
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-17.md",
+    "sha256": "adcb7c5a1fcb9bf8de1d11a283ccfb448e717f91d33f849ea9ab0e801af85670",
+    "bytes": 30156
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-18.md",
+    "sha256": "3f06e9728d86b47792a84bde691b38093390c5dc7245a9a78dd23ffb5ec9dbce",
+    "bytes": 24182
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-19.md",
+    "sha256": "6bc9d34261fc2906905612d47cfc41653c6c2a7b9e0aed7aad97bee6b0133699",
+    "bytes": 33871
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-20.md",
+    "sha256": "aa4fefea733cd297c7d177202e1cdf08f18ce761e5955a5951dfb854684e4af9",
+    "bytes": 13785
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-21.md",
+    "sha256": "1dd5dd50942453068f5e19ca17de8e59f54ebbb79e6d40928e2f3358f3f5a168",
+    "bytes": 14386
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-22.md",
+    "sha256": "b73edd8a5ad9ed9526cd78bf2cf3e540de20226b5864f5ae932926a2af8717ec",
+    "bytes": 16053
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-23.md",
+    "sha256": "6657b01e3fb18fedb54fa3976e67ca93406f395ee963f24f2a071af8c0dd4732",
+    "bytes": 21228
+  },
+  {
+    "path": "03_NOVEL_24_CHAPTER_BASELINES/restored_24_chapter_hanseorin/chapter-24.md",
+    "sha256": "f50a8b93f7dc5088e1abef9584d7fc71c1a0f42a9345bbc79c276c33f36b8b16",
+    "bytes": 27611
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-01.md",
+    "sha256": "89cc03cac6ac6b4b658019d0830e5a8ef0ee1bbbcc32bc06e7a96e201e83ead5",
+    "bytes": 20608
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-02.md",
+    "sha256": "6b4e50af64a1dcdb8fbcceed3f4cce42d1a866ab9681d0e5f9fe49b55af13a65",
+    "bytes": 13804
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-03.md",
+    "sha256": "5e071b94b14b0d39de93932568bb746a05ad3b6c4cd4630126990b0c74d1100c",
+    "bytes": 19014
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-04.md",
+    "sha256": "59703e9e7bfd8f03d53ebf1f7fe262419f9b82ff41c9f6a9cb4d23568a591500",
+    "bytes": 9003
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-05.md",
+    "sha256": "d0cec62cf7ded8ae210a2bc932b931df493125245c697ff9a488dbeb535a1e0e",
+    "bytes": 16678
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-06.md",
+    "sha256": "ef200fe7598b3b9687ee75446eaaefef3d0ece740ed6aba9d021e96504800397",
+    "bytes": 17177
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-07.md",
+    "sha256": "dce3ff144c907bcb557b00add861d1493388b2e46ce3f2012db63405221b3665",
+    "bytes": 11792
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-08.md",
+    "sha256": "63481996b1f526470d2b01e2c87842ce4c535a5ee438494035be6e70226162df",
+    "bytes": 19218
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-09.md",
+    "sha256": "13dc4128064cca63f05dbc42fbc9b4a094122b0b7e6d3fc2ee0e5dd8cf1a1ae5",
+    "bytes": 20049
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-10.md",
+    "sha256": "f8d3a85666beeb038c5bfa6549d0d65d2ab5389c812f01858a574835526f82e2",
+    "bytes": 14722
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-11.md",
+    "sha256": "7c7d727cdb25786b8b09e9a83324bca8d1ea014a0203aeea7ec0a674918a2d2c",
+    "bytes": 28209
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-12.md",
+    "sha256": "bec5f074f6b27ac85fd12737b8af6035791f5ef5bdcb4554d87bb6953e5293a4",
+    "bytes": 21869
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-13.md",
+    "sha256": "f957a59949e7d436812a8bf2fee6b7af63acd8bd225b76f3d8d4732d2d0604d8",
+    "bytes": 17615
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-14.md",
+    "sha256": "e296c6eb1f3fc70b48a462384e1c8725ba3782656d32de270f8e4e99a33fa6ce",
+    "bytes": 18655
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-15.md",
+    "sha256": "e6700069426925f0f67d7c295331c88f1fbfa480e68765df3301fa4dc272dae2",
+    "bytes": 16212
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-16.md",
+    "sha256": "6fb3745b6d0b641ce2a13cb71c2ed3683218f727af90bf8a9af0d5feeadf5602",
+    "bytes": 16421
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-17.md",
+    "sha256": "03983ef0a9d91cf2290c7f7a860e0082b49c43927193aa0010f5bcbb5cf4cb3b",
+    "bytes": 30150
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-18.md",
+    "sha256": "973d259651c9526850ef8c1a381f5aedb402ad9f4c245514874cc0265b6c968a",
+    "bytes": 24161
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-19.md",
+    "sha256": "f675a32f81f42c995b30a19225afb00e00853da293a03b8f2ab86467d025fe22",
+    "bytes": 33835
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-20.md",
+    "sha256": "55c3d62e81512dd4febd8797d442a6b76143cde433c30cfa28c9714e0e17f6aa",
+    "bytes": 13770
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-21.md",
+    "sha256": "364041e7d19157cca33103924a9c03d80b6b96878fae67b9f92c5abd40b73630",
+    "bytes": 14362
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-22.md",
+    "sha256": "b73edd8a5ad9ed9526cd78bf2cf3e540de20226b5864f5ae932926a2af8717ec",
+    "bytes": 16053
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-23.md",
+    "sha256": "a90bf177c9c51b7cc604017197d331fc8cc6b4ab505acd3d36e6b5f9614753b5",
+    "bytes": 21222
+  },
+  {
+    "path": "04_WORKING_COMBINED_24_CHAPTERS/chapter-24.md",
+    "sha256": "4fc4739be4f15b5502d1171c966e1a995eb85fc7ba96b08cf1109d1fe0967a59",
+    "bytes": 27605
+  },
+  {
+    "path": "05_OTHER_SCENARIOS_AND_READERS/CHEONRYUGWAN_EP01_SCENARIO.md",
+    "sha256": "281969303be9f52b3a87f58a99b201001d2039efb8abb7603a37319a95f9ea3c",
+    "bytes": 22010
+  },
+  {
+    "path": "05_OTHER_SCENARIOS_AND_READERS/cheonryugwan_part1_read_online.html",
+    "sha256": "44937f37fcc63d897d94d78275f52bcbadb1cdcbfccc4bb41f2e4539997f45e8",
+    "bytes": 527734
+  },
+  {
+    "path": "06_NEW_CONVERSATION_CANON/2026-11-19_ACADEMY_REPRESENTATIVE_AND_RELATIONSHIPS.md",
+    "sha256": "942d3fc51c5f66881e4d1441ffe4a8702e3bb93f3f970578b22873436487a38b",
+    "bytes": 3817
+  },
+  {
+    "path": "06_NEW_CONVERSATION_CANON/2026-11-19_MAGYO_ABDUCTION_REVISED_PLOT.md",
+    "sha256": "907e6a453035890746c4e59c9f13f1ae2e3edd1f04b57d85fda6fb2bda4c0693",
+    "bytes": 1895
+  },
+  {
+    "path": "06_NEW_CONVERSATION_CANON/2026-11-19_STRUCTURE_AND_CHANGELOG.md",
+    "sha256": "a99466fe7aae9cd27999c7e88209f7a00d77f98d35015b0c045fa336f1d1a348",
+    "bytes": 810
+  },
+  {
+    "path": "07_MANIFEST/EXACT_DUPLICATE_FILES.json",
+    "sha256": "a04d8ae8292d368eb191731981507174e406a636f787f0e5df2779cbe1ef1dd2",
+    "bytes": 6674
+  },
+  {
+    "path": "99_INTERNAL/COSTUME_INTEGRATION_2026-11-19.md",
+    "sha256": "3b655428a385d75785aaca5a3dabcc92b6c699ae5e1b19746395b69e32dc56c6",
+    "bytes": 749
+  },
+  {
+    "path": "README.md",
+    "sha256": "469509df0b14826eb2b57bc7555942f62f78083d5e8467b3c2726fa3001e652e",
+    "bytes": 1524
+  },
+  {
+    "path": "README_FIRST.md",
+    "sha256": "cbe8bf987fc42f50ba02df4dd269e4ba41590ddbd6b45c6bbd54b0befbcaee5a",
+    "bytes": 2105
+  }
+]

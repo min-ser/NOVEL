@@ -1,0 +1,3 @@
+# INTEGRATION_LOGS_LEGACY
+
+이전 통합 작업 기록.
